@@ -1,4 +1,4 @@
-# Learning-to-Move-with-Style-Few-Shot-Cross-Modal-Style-Transfer-for-Creative-Robot-Motion-Generation
+# Learning to Move with Style: Few-Shot Cross-Modal Style Transfer for Creative Robot Motion Generation
 This repository contains the implementation code for paper: <br>
 __Learning to Move with Style: Few-Shot Cross-Modal Style Transfer for Creative Robot Motion Generation__ <br>
 Kieran Woodward, Alicia Falcon Caro and Steve Benford <br>
