@@ -6,8 +6,8 @@ _39th Conference on Neural Information Processing Systems (NeurIPS), 2025_ <br>
 
 If you find this code or idea useful, please consider citing our work:
 ```bib
-@inproceedings{yang2020rethinking,
-  title={Rethinking the Value of Labels for Improving Class-Imbalanced Learning},
+@inproceedings{Woodward2025Learning,
+  title={Learning to Move with Style: Few-Shot Cross-Modal Style Transfer for Creative Robot Motion Generation},
   author={Woodward, Kieran, Falcon-Caro, Alicia and Benford, Steve},
   booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
   year={2025}
